@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Proj1_McDaniel.unity
+  isLoaded: 1
+  isActive: 1
